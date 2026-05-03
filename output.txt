@@ -1,0 +1,15 @@
+The data from the CSV file
+num1,operator,num2
+,,
+22,+,3
+221,+,3
+222,+,3
+,,
+,,
+,,
+,,
+
+Calculations begin
+Addition of 22.0 + 3.0 = 25.0
+Addition of 221.0 + 3.0 = 224.0
+Addition of 222.0 + 3.0 = 225.0
